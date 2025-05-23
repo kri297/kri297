@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Krish Mishra!</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" height="35" alt="Instagram"/>
-  </a>
+   <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" height="35" alt="Instagram"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/krish-mishra-45933a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="35" alt="LinkedIn"/>
