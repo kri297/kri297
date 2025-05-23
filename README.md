@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Instagram](https://img.shields.io/badge/Instagram-@yourusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krish_mishra_7)
 
 <!--
 **kri297/kri297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
