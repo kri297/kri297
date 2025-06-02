@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=180&section=header&text=Krish%20Mishra%20%F0%9F%94%A5&fontSize=48&fontColor=ffffff" alt="Krish Mishra Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=180&section=header&text=Krish%20Mishra%20%F0%9F%98%8E&fontSize=48&fontColor=ffffff" alt="Krish Mishra Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FF61F6&center=true&vCenter=true&width=900&lines=Welcome+to+my+creative+world!;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+Git+;Building+projects+that+stand+out+%F0%9F%92%A5;Let%27s+innovate+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FF61F6&center=true&vCenter=true&width=900&lines=Welcome+to+my+creative+world!;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+Git+;Building+projects+that+stand+out+%F0%9F%98%8E;Let%27s+innovate+together!" />
 </p>
 
 <p align="center">
@@ -43,19 +43,19 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/KRISH290706/Bill-Splitter" target="_blank">
+      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Bill%20Splitter" target="_blank">
         <img src="https://img.icons8.com/fluency/96/000000/money.png" width="60"/><br>
         <b>Bill Splitter</b></a><br>
       <sub>💸 Split and track expenses with friends</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/KRISH290706/Life-Simulator" target="_blank">
+      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Life%20Simulator" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/baby.png" width="60"/><br>
         <b>Life Simulator</b></a><br>
       <sub>🌱 Simulate life decisions with fun commentary</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/KRISH290706/Password-Strength-Checker" target="_blank">
+      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Password%20Strength%20Checker" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/ff61f6/key-security.png" width="60" alt="Password Checker"/><br>
         <b>Password Strength Checker</b></a><br>
       <sub>🔐 Playful feedback, real security</sub>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/KRISH290706/Personal-Expense-Tracker" target="_blank">
+      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Personal%20Expense%20Tracker" target="_blank">
         <img src="https://img.icons8.com/fluency/96/000000/budget.png" width="60"/><br>
         <b>Personal Expense Tracker</b></a><br>
       <sub>💰 Stay on top of your budget & spending</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/KRISH290706/Simple-Calculator" target="_blank">
+      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/simple%20calculator" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/calculator--v2.png" width="60"/><br>
         <b>Simple Calculator</b></a><br>
       <sub>🧮 Math made easy & friendly</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/KRISH290706/Unit-Converter" target="_blank">
+      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Unit%20Converter" target="_blank">
         <img src="https://img.icons8.com/fluency/96/000000/ruler.png" width="60"/><br>
         <b>Unit Converter</b></a><br>
       <sub>📏 Convert anything — length, weight, temp</sub>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <a href="https://github.com/KRISH290706/Task-Manager" target="_blank">
+      <a href="https://github.com/kri297/TaskManager/blob/main/590015053_KRISH_CODE.py" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/task.png" width="60"/><br>
         <b>Task Manager (Python)</b></a><br>
       <sub>🗂️ Organize tasks, auto-load, and edit — for a smarter life!</sub>
@@ -118,7 +118,7 @@
   </ul>
 </details>
 
-<p align="center"><b>👇 Click to expand the Tech Stack & Achievements sections above!</b></p>
+<p align="center"><b>👆 Click to expand the Tech Stack & Achievements sections above!</b></p>
 
 ---
 
