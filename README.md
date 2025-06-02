@@ -1,139 +1,141 @@
-# Hi there, I'm Krish Mishra! 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Former+CodeSoft+Intern;PR+%26+Sponsorship+Head;Passionate+Programmer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=180&section=header&text=Krish%20Mishra%20%F0%9F%94%A5&fontSize=48&fontColor=ffffff" alt="Krish Mishra Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="32px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/krish-mishra-45933a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:krishmishra121301@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32px"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FF61F6&center=true&vCenter=true&width=900&lines=Welcome+to+my+creative+world!;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+Git+;Building+projects+that+stand+out+%F0%9F%92%A5;Let%27s+innovate+together!" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kri297&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/krish-mishra-45933a306"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:krishmishra121301@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u"><img src="https://img.shields.io/badge/Instagram-follow-FF61F6?style=for-the-badge&logo=instagram" /></a>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 **B.Tech CSE Student** (2nd Year)
-- 💼 **Ex-Intern @ CodeSoft** (C Language)
-- 👔 **PR & Sponsorship Head**
-- 💻 Enthusiastic about **programming, public speaking, and creativity**
-- 🔥 Thrive on **complex challenges** and tight deadlines
-- ⚡ **Energized** by solving difficult problems and learning new things
-
----
-
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=80&section=header"/>
+</p>
 
 <div align="center">
+  <h2>
+    <span style="display:inline-block;transform-origin:70% 70%;">👋</span>
+    Hey, I'm <span style="color:#FF61F6;">Krish Mishra</span>!
+  </h2>
+  <p>
+    <b>B.Tech CSE Student</b> | <b>Code Craftsman</b> | <b>PR & Sponsorship Head</b><br>
+    🚀 <b>Former CodeSoft Intern</b><br>
+    🏆 <i>Turning ideas into fun, useful, and unique projects!</i>
+  </p>
+  <ul align="left" style="font-size: 1.08em; margin-top: 10px;">
+    <li>💡 <b>Creative Thinker:</b> I love brainstorming innovative solutions.</li>
+    <li>🧩 <b>Challenge Seeker:</b> The tougher the task, the more fun it is!</li>
+    <li>🎤 <b>Community Connector:</b> Enjoy inspiring and collaborating with others.</li>
+    <li>⚡ <b>Lifelong Learner:</b> Always expanding my toolkit and mindset.</li>
+  </ul>
+</div>
 
-### Languages
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF61F6&height=10&section=footer"/>
+</p>
 
-### Tools & Technologies
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+## 🌈 Projects — Click & Explore!
 
-### Soft Skills
-<table>
+<table align="center" width="100%">
   <tr>
-    <td>🎯 <b>Leadership</b></td>
-    <td>Leading teams and initiatives</td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KRISH290706/Bill-Splitter" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/money.png" width="60"/><br>
+        <b>Bill Splitter</b></a><br>
+      <sub>💸 Split and track expenses with friends</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KRISH290706/Life-Simulator" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/baby.png" width="60"/><br>
+        <b>Life Simulator</b></a><br>
+      <sub>🌱 Simulate life decisions with fun commentary</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KRISH290706/Password-Strength-Checker" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/100/ff61f6/key-security.png" width="60" alt="Password Checker"/><br>
+        <b>Password Strength Checker</b></a><br>
+      <sub>🔐 Playful feedback, real security</sub>
+    </td>
   </tr>
   <tr>
-    <td>⏰ <b>Time Management</b></td>
-    <td>Efficient task prioritization</td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KRISH290706/Personal-Expense-Tracker" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/budget.png" width="60"/><br>
+        <b>Personal Expense Tracker</b></a><br>
+      <sub>💰 Stay on top of your budget & spending</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KRISH290706/Simple-Calculator" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/calculator--v2.png" width="60"/><br>
+        <b>Simple Calculator</b></a><br>
+      <sub>🧮 Math made easy & friendly</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KRISH290706/Unit-Converter" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/ruler.png" width="60"/><br>
+        <b>Unit Converter</b></a><br>
+      <sub>📏 Convert anything — length, weight, temp</sub>
+    </td>
   </tr>
   <tr>
-    <td>💬 <b>Communication</b></td>
-    <td>Clear, effective interaction</td>
+    <td colspan="3" align="center">
+      <a href="https://github.com/KRISH290706/Task-Manager" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/task.png" width="60"/><br>
+        <b>Task Manager (Python)</b></a><br>
+      <sub>🗂️ Organize tasks, auto-load, and edit — for a smarter life!</sub>
+    </td>
   </tr>
 </table>
-</div>
-
----
-
-## 📂 Featured Projects
-
-### 🎯 Task Manager (Python)
-A simple yet effective task management tool:
-- ✅ Create and organize tasks  
-- ✏️ Edit existing tasks  
-- 💾 Save tasks persistently  
-- 🔄 Auto-loads tasks on startup  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀-More_Projects_Coming_Soon-orange?style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=FF61F6&center=true&vCenter=true&width=700&lines=👆+Click+any+project+to+explore+code+and+demos!"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF61F6&height=10&section=footer"/>
+</p>
+
+<details>
+  <summary><b>🛠 Tech Stack & Tools <em>(click to expand)</em></b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode,canva"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🏆 Achievements & Fun Facts <em>(click to expand)</em></b></summary>
+  <ul>
+    <li>🏢 <b>CodeSoft Intern:</b> C wizardry in action</li>
+    <li>👥 <b>ACM Member:</b> Competitive coding is my jam</li>
+    <li>📢 <b>PR & Sponsorship Head:</b> Master networker & motivator</li>
+    <li>🐍 <b>Python Lover:</b> If it can be automated, I'm on it!</li>
+    <li>🎤 <b>Public Speaking:</b> Explaining tech, making it fun</li>
+    <li>✨ <b>Fun Fact:</b> My energy goes up as the challenge gets harder!</li>
+  </ul>
+</details>
+
+<p align="center"><b>👇 Click to expand the Tech Stack & Achievements sections above!</b></p>
+
 ---
 
-## 🏆 Achievements & Experience
-
-- 🏢 **CodeSoft Intern:** Hands-on C programming experience  
-- 👥 **ACM Member:** Active in competitive programming  
-- 📢 **PR & Sponsorship Head:** Leading outreach and partnership efforts  
-- 🥇 **Multiple Programming Contests:** Consistently striving for excellence
-
----
-
-## ⚡ Fun Facts
-
-- 🔋 **Competition fuels my growth**  
-- 💪 Difficult tasks **energize me** more than easy ones  
-- 🏧 Love building things that **make a difference**  
-- 🎤 Enjoy **public speaking** and sharing knowledge  
-
----
-
-## 📈 GitHub Stats
+## 📈 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kri297&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kri297&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kri297&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kri297&theme=radical&hide_border=true" height="170"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=kri297&theme=radical&margin-w=10&no-bg=true" height="130"/>
 </div>
 
----
-
-## 🤝 Let's Connect!
-
-I'm always open for collaboration, idea-exchange, or a friendly chat about tech and innovation.  
-**Feel free to reach out—let's make something amazing together!**
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/krish-mishra-45933a306" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:krishmishra121301@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32px" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=100&section=footer"/>
 </p>
 
----
-
-## 💡 Quote to Live By
-
-<blockquote align="center">
-  <b>"The only way to do great work is to love what you do."</b>  
-  <br>– Steve Jobs
-</blockquote>
+<p align="center">
+  <b>“The only way to do great work is to love what you do.”</b><br>
+  <i>– Steve Jobs</i>
+</p>
