@@ -17,10 +17,7 @@
 </p>
 
 <div align="center">
-  <h2>
-    <span style="display:inline-block;transform-origin:70% 70%;">👋</span>
-    Hey, I'm <span style="color:#FF61F6;">Krish Mishra</span>!
-  </h2>
+  <h2>👋 Hey, I'm <span style="color:#FF61F6;">Krish Mishra</span>!</h2>
   <p>
     <b>B.Tech CSE Student</b> | <b>Code Craftsman</b> | <b>PR & Sponsorship Head</b><br>
     🚀 <b>Former CodeSoft Intern</b><br>
@@ -34,9 +31,7 @@
   </ul>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF61F6&height=10&section=footer"/>
-</p>
+---
 
 ## 🌈 Projects — Click & Explore!
 
@@ -91,23 +86,23 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=FF61F6&center=true&vCenter=true&width=700&lines=👆+Click+any+project+to+explore+code+and+demos!"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF61F6&height=10&section=footer"/>
-</p>
+## 🧰 Tech Stack & Tools
 
 <details>
-  <summary><b>🛠 Tech Stack & Tools <em>(click to expand)</em></b></summary>
+  <summary><b>🛠 Click to expand</b></summary>
   <p>
     <img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode,canva"/>
   </p>
 </details>
 
+---
+
+## 🏆 Achievements & Fun Facts
+
 <details>
-  <summary><b>🏆 Achievements & Fun Facts <em>(click to expand)</em></b></summary>
+  <summary><b>✨ Click to expand</b></summary>
   <ul>
     <li>🏢 <b>CodeSoft Intern:</b> C wizardry in action</li>
     <li>👥 <b>ACM Member:</b> Competitive coding is my jam</li>
@@ -118,18 +113,24 @@
   </ul>
 </details>
 
-<p align="center"><b>👆 Click to expand the Tech Stack & Achievements sections above!</b></p>
-
 ---
 
-## 📈 My Stats
+## 📊 GitHub Stats & Trophies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kri297&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kri297&theme=radical&hide_border=true" height="170"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=kri297&theme=radical&margin-w=10&no-bg=true" height="130"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kri297&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kri297&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kri297&theme=radical&margin-w=15&no-frame=true&title=Followers,Stars,Commits,PullRequest,Issues,Repositories" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kri297&theme=radical" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=100&section=footer"/>
