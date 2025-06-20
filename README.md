@@ -33,6 +33,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kri297&theme=radical&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy"/>
+</p>
+
+---
+
 ## 🌈 Projects — Click & Explore!
 
 <table align="center" width="100%">
