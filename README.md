@@ -17,17 +17,21 @@
 </p>
 
 <div align="center">
-  <h2>👋 Hey, I'm <span style="color:#FF61F6;">Krish Mishra</span>!</h2>
+  <h2>👋 Hi, I'm <span style="color:#FF61F6;">Krish Mishra</span>!</h2>
   <p>
-    <b>B.Tech CSE Student</b> | <b>Code Craftsman</b> | <b>PR & Sponsorship Head</b><br>
-    🚀 <b>Former CodeSoft Intern</b><br>
-    🏆 <i>Turning ideas into fun, useful, and unique projects!</i>
+    <b>B.Tech CSE Student</b> | <b>Love Coding</b> | <b>PR & Sponsorship Head</b><br>
+    🚀 <b>Ex-CodeSoft Intern</b><br>
+    🏆 <i>I like to turn ideas into simple and useful projects!</i>
   </p>
   <ul align="left" style="font-size: 1.08em; margin-top: 10px;">
-    <li>💡 <b>Creative Thinker:</b> I love brainstorming innovative solutions.</li>
-    <li>🧩 <b>Challenge Seeker:</b> The tougher the task, the more fun it is!</li>
-    <li>🎤 <b>Community Connector:</b> Enjoy inspiring and collaborating with others.</li>
-    <li>⚡ <b>Lifelong Learner:</b> Always expanding my toolkit and mindset.</li>
+    <li>💡 <b>Creative:</b> I enjoy coming up with new solutions.</li>
+    <li>🧩 <b>Like Challenges:</b> The harder, the better!</li>
+    <li>🎤 <b>Community Person:</b> I like working and sharing with others.</li>
+    <li>⚡ <b>Always Learning:</b> I try to learn new things all the time.</li>
+    <li>📝 <b>Open Source Enthusiast:</b> I enjoy contributing to open source and learning from the community.</li>
+    <li>🌱 <b>Growth Mindset:</b> Every mistake is a chance to improve.</li>
+    <li>🕹️ <b>Hobbies:</b> Gaming, sketching, and exploring tech trends.</li>
+    <li>🤝 <b>Collaboration:</b> I love working on team projects and hackathons!</li>
   </ul>
 </div>
 
@@ -41,69 +45,48 @@
 
 ---
 
-## 🌈 Projects — Click & Explore!
+## 🌟 Featured Project
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Bill%20Splitter" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/000000/money.png" width="60" alt="Bill Splitter"/><br>
-        <b>Bill Splitter</b></a><br>
-      <sub>💸 Split and track expenses with friends</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Life%20Simulator" target="_blank">
-        <img src="https://img.icons8.com/color/96/000000/baby.png" width="60" alt="Life Simulator"/><br>
-        <b>Life Simulator</b></a><br>
-      <sub>🌱 Simulate life decisions with fun commentary</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Password%20Strength%20Checker" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/100/ff61f6/key-security.png" width="60" alt="Password Checker"/><br>
-        <b>Password Strength Checker</b></a><br>
-      <sub>🔐 Playful feedback, real security</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Personal%20Expense%20Tracker" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/000000/budget.png" width="60" alt="Personal Expense Tracker"/><br>
-        <b>Personal Expense Tracker</b></a><br>
-      <sub>💰 Stay on top of your budget & spending</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/simple%20calculator" target="_blank">
-        <img src="https://img.icons8.com/color/96/000000/calculator--v2.png" width="60" alt="Simple Calculator"/><br>
-        <b>Simple Calculator</b></a><br>
-      <sub>🧮 Math made easy & friendly</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/kri297/Cprojects/tree/main/C%20projects/Unit%20Converter" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/000000/ruler.png" width="60" alt="Unit Converter"/><br>
-        <b>Unit Converter</b></a><br>
-      <sub>📏 Convert anything — length, weight, temp</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <a href="https://github.com/kri297/TaskManager/blob/main/590015053_KRISH_CODE.py" target="_blank">
-        <img src="https://img.icons8.com/color/96/000000/task.png" width="60" alt="Task Manager"/><br>
-        <b>Task Manager (Python)</b></a><br>
-      <sub>🗂️ Organize tasks, auto-load, and edit — for a smarter life!</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Task Manager (Python)</h3>
+  <a href="https://github.com/kri297/TaskManager/blob/main/590015053_KRISH_CODE.py" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/task.png" width="60" alt="Task Manager"/><br>
+    <b>Organize tasks, auto-load, and edit — for a smarter life!</b>
+  </a>
+  <p>
+    This Python project is a simple, user-friendly task management tool that helps you keep track of your to-dos. It features auto-loading of tasks, easy editing, and a focus on making your life more organized. I built it to solve my own problem of forgetting daily tasks, and it's been super helpful!
+  </p>
+  <img src="https://raw.githubusercontent.com/kri297/TaskManager/main/demo.gif" alt="Task Manager Demo" width="300"/>
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<p align="center">
+  <b>I'm always open to new ideas, collaborations, or just a friendly chat!</b><br>
+  <a href="mailto:krishmishra121301@gmail.com"><img src="https://img.shields.io/badge/Email-Me-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krish-mishra-45933a306"><img src="https://img.shields.io/badge/LinkedIn-Message-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u"><img src="https://img.shields.io/badge/Instagram-DM-FF61F6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-<details>
-  <summary><b>🛠 Click to expand</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode,canva" alt="Python, C, HTML, CSS, Git, VSCode, Canva"/>
-  </p>
-</details>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,github,vscode,canva" alt="Skill Icons" style="margin-top:10px;"/>
+</div>
 
 ---
 
@@ -112,12 +95,14 @@
 <details>
   <summary><b>✨ Click to expand</b></summary>
   <ul>
-    <li>🏢 <b>CodeSoft Intern:</b> C wizardry in action</li>
-    <li>👥 <b>ACM Member:</b> Competitive coding is my jam</li>
-    <li>📢 <b>PR & Sponsorship Head:</b> Master networker & motivator</li>
-    <li>🐍 <b>Python Lover:</b> If it can be automated, I'm on it!</li>
-    <li>🎤 <b>Public Speaking:</b> Explaining tech, making it fun</li>
-    <li>✨ <b>Fun Fact:</b> My energy goes up as the challenge gets harder!</li>
+    <li>🏢 <b>CodeSoft Intern:</b> Worked mainly in C</li>
+    <li>👥 <b>ACM Member:</b> I enjoy coding competitions</li>
+    <li>📢 <b>PR & Sponsorship Head:</b> Good at networking and teamwork</li>
+    <li>🐍 <b>Python Lover:</b> I like to automate stuff</li>
+    <li>🎤 <b>Public Speaking:</b> Explaining tech in a simple way</li>
+    <li>🏅 <b>Hackathon Participant:</b> Always up for a challenge!</li>
+    <li>🌟 <b>Volunteer:</b> I love helping organize tech events and workshops.</li>
+    <li>✨ <b>Fun Fact:</b> I get more motivated when things are tough!</li>
   </ul>
 </details>
 
