@@ -112,7 +112,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kri297&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=kri297&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kri297&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
