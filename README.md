@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolioofkrish.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-Explore_My_Work-FF61F6?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/krish-mishra-45933a306"><img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:krishmishra121301@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u"><img src="https://img.shields.io/badge/Instagram-follow-FF61F6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -23,6 +26,17 @@
     🚀 <b>Ex-CodeSoft Intern</b><br>
     🏆 <i>I like to turn ideas into simple and useful projects!</i>
   </p>
+  
+  <!-- 💼 PORTFOLIO SECTION -->
+  <div align="center" style="margin: 25px 0;">
+    <h3>🌐 Explore My Digital Portfolio</h3>
+    <a href="https://portfolioofkrish.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🎨_VIEW_PORTFOLIO-Click_Here-FF61F6?style=for-the-badge&logoColor=white&labelColor=1a1b27" />
+    </a>
+    <br>
+    <i>✨ Discover my projects, skills, and developer journey ✨</i>
+  </div>
+  
   <ul align="left" style="font-size: 1.08em; margin-top: 10px;">
     <li>💡 <b>Creative:</b> I enjoy coming up with new solutions.</li>
     <li>🧩 <b>Like Challenges:</b> The harder, the better!</li>
@@ -83,9 +97,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,github,vscode,canva" alt="Skill Icons" style="margin-top:10px;"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,github,vscode,canva,vercel" alt="Skill Icons" style="margin-top:10px;"/>
 </div>
 
 ---
@@ -102,6 +117,7 @@
     <li>🎤 <b>Public Speaking:</b> Explaining tech in a simple way</li>
     <li>🏅 <b>Hackathon Participant:</b> Always up for a challenge!</li>
     <li>🌟 <b>Volunteer:</b> I love helping organize tech events and workshops.</li>
+    <li>🌐 <b>Portfolio Creator:</b> Built and deployed my own portfolio website!</li>
     <li>✨ <b>Fun Fact:</b> I get more motivated when things are tough!</li>
   </ul>
 </details>
@@ -126,6 +142,6 @@
 </p>
 
 <p align="center">
-  <b>“The only way to do great work is to love what you do.”</b><br>
+  <b>"The only way to do great work is to love what you do."</b><br>
   <i>– Steve Jobs</i>
 </p>
