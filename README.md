@@ -132,7 +132,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kri297&theme=react&area=true&hide_border=true&radius=20&color=FF61F6&line=FF61F6&point=FF61F6&bg_color=1a1b27" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kri297&theme=react&area=true&hide_border=true&radius=10&color=FF61F6&line=FF61F6&point=FF61F6&bg_color=1a1b27" alt="Contribution Graph"/>
 </p>
 
 ---
