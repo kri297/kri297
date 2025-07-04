@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=180&section=header&text=Krish%20Mishra%20%F0%9F%98%8E&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Krish Mishra Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Krish%20Mishra%20%F0%9F%98%8E&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Krish Mishra Banner" />
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FF61F6&center=true&vCenter=true&width=900&lines=Welcome+to+my+creative+world!;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+Git+;Building+projects+that+stand+out+%F0%9F%98%8E;Let%27s+innovate+together!" alt="Welcome to my creative world! Python | C | HTML | CSS | Git | Building projects that stand out 😎 | Let's innovate together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+creative+world!;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+Git+;Building+projects+that+stand+out+%F0%9F%98%8E;Let%27s+innovate+together!&gradient=true&gradientColorStart=A855F7&gradientColorEnd=06B6D4" alt="Welcome to my creative world! Python | C | HTML | CSS | Git | Building projects that stand out 😎 | Let's innovate together!" />
 </p>
 
 <p align="center">
   <a href="https://portfolioofkrish.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-Explore_My_Work-FF61F6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀_Portfolio-Explore_My_Work-A855F7?style=for-the-badge&logoColor=white&labelColor=0F0F23&gradient=true" />
   </a>
-  <a href="https://www.linkedin.com/in/krish-mishra-45933a306"><img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:krishmishra121301@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u"><img src="https://img.shields.io/badge/Instagram-follow-FF61F6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krish-mishra-45933a306"><img src="https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F23" /></a>
+  <a href="mailto:krishmishra121301@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-F97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F23" /></a>
+  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u"><img src="https://img.shields.io/badge/Instagram-follow-EC4899?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F0F23" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=80&section=header&reversal=true" alt="Mirrored Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=header&reversal=true" alt="Mirrored Footer" />
 </p>
 
 <div align="center">
-  <h2>👋 Hi, I'm <span style="color:#FF61F6;">Krish Mishra</span>!</h2>
+  <h2>👋 Hi, I'm <span style="background: linear-gradient(45deg, #A855F7, #06B6D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Krish Mishra</span>!</h2>
   <p>
     <b>B.Tech CSE Student</b> | <b>Love Coding</b> | <b>PR & Sponsorship Head</b><br>
     🚀 <b>Ex-CodeSoft Intern</b><br>
@@ -31,7 +31,7 @@
   <div align="center" style="margin: 25px 0;">
     <h3>🌐 Explore My Digital Portfolio</h3>
     <a href="https://portfolioofkrish.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/🎨_VIEW_PORTFOLIO-Click_Here-FF61F6?style=for-the-badge&logoColor=white&labelColor=1a1b27" />
+      <img src="https://img.shields.io/badge/🎨_VIEW_PORTFOLIO-Click_Here-A855F7?style=for-the-badge&logoColor=white&labelColor=0F0F23" />
     </a>
     <br>
     <i>✨ Discover my projects, skills, and developer journey ✨</i>
@@ -54,7 +54,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kri297&theme=radical&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kri297&theme=algolia&margin-w=15&margin-h=15&no-bg=true&row=2&column=4" alt="GitHub Trophy"/>
 </p>
 
 ---
@@ -79,9 +79,9 @@
 
 <p align="center">
   <b>I'm always open to new ideas, collaborations, or just a friendly chat!</b><br>
-  <a href="mailto:krishmishra121301@gmail.com"><img src="https://img.shields.io/badge/Email-Me-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/krish-mishra-45933a306"><img src="https://img.shields.io/badge/LinkedIn-Message-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u"><img src="https://img.shields.io/badge/Instagram-DM-FF61F6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:krishmishra121301@gmail.com"><img src="https://img.shields.io/badge/Email-Me-F97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F23" /></a>
+  <a href="https://www.linkedin.com/in/krish-mishra-45933a306"><img src="https://img.shields.io/badge/LinkedIn-Message-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F23" /></a>
+  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u"><img src="https://img.shields.io/badge/Instagram-DM-EC4899?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F0F23" /></a>
 </p>
 
 ---
@@ -90,17 +90,17 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white&labelColor=0F0F23" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-06B6D4?style=for-the-badge&logo=c&logoColor=white&labelColor=0F0F23" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F0F23" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F0F23" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F23" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-06B6D4?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0F0F23" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Canva-F97316?style=for-the-badge&logo=canva&logoColor=white&labelColor=0F0F23" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Vercel-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F23" alt="Vercel"/>
   
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,github,vscode,canva,vercel" alt="Skill Icons" style="margin-top:10px;"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,github,vscode,canva,vercel&theme=dark" alt="Skill Icons" style="margin-top:10px;"/>
 </div>
 
 ---
@@ -127,18 +127,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kri297&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=kri297&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kri297&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=06B6D4&text_color=ffffff&bg_color=0F0F23" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=kri297&theme=synthwave&hide_border=true&stroke=A855F7&ring=06B6D4&fire=F97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=06B6D4&dates=ffffff&background=0F0F23" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kri297&theme=react&area=true&hide_border=true&radius=10&color=FF61F6&line=FF61F6&point=FF61F6&bg_color=1a1b27" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri297&layout=compact&theme=synthwave&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0F0F23" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kri297&theme=synthwave&area=true&hide_border=true&radius=10&color=A855F7&line=06B6D4&point=F97316&bg_color=0F0F23" alt="Contribution Graph"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61F6&height=100&section=footer&reversal=true" alt="Footer Mirrored"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=true" alt="Footer Mirrored"/>
 </p>
 
 <p align="center">
