@@ -44,7 +44,6 @@
     <li>⚡ <b>Always Learning:</b> I try to learn new things all the time.</li>
     <li>📝 <b>Open Source Enthusiast:</b> I enjoy contributing to open source and learning from the community.</li>
     <li>🌱 <b>Growth Mindset:</b> Every mistake is a chance to improve.</li>
-    <li>🕹️ <b>Hobbies:</b> Gaming, sketching, and exploring tech trends.</li>
     <li>🤝 <b>Collaboration:</b> I love working on team projects and hackathons!</li>
   </ul>
 </div>
