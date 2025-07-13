@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Krish%20Mishra%20%F0%9F%98%8E&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Krish Mishra Banner" />
 </p> 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+creative+world!;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+Git+;Building+projects+that+stand+out+%F0%9F%98%8E;Let%27s+innovate+together!&gradient=true&gradientColorStart=A855F7&gradientColorEnd=06B6D4" alt="Welcome to my creative world! Python | C | HTML | CSS | Git | Building projects that stand out 😎 | Let's innovate together!" />
 </p>
