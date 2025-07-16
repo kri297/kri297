@@ -138,6 +138,16 @@
 
 ---
 
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥_Currently_Working_On-Personal_Projects-A855F7?style=for-the-badge&logoColor=white&labelColor=0F0F23" />
+  <img src="https://img.shields.io/badge/📚_Learning-Data_Structures_&_Algorithms-06B6D4?style=for-the-badge&logoColor=white&labelColor=0F0F23" />
+  <img src="https://img.shields.io/badge/🎯_Goal-Contributing_to_Open_Source-F97316?style=for-the-badge&logoColor=white&labelColor=0F0F23" />
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=true" alt="Footer Mirrored"/>
 </p>
