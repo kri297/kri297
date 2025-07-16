@@ -56,18 +56,42 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 <div align="center">
-  <h3>Task Manager (Python)</h3>
-  <a href="https://github.com/kri297/TaskManager/blob/main/590015053_KRISH_CODE.py" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/task.png" width="60" alt="Task Manager"/><br>
-    <b>Organize tasks, auto-load, and edit — for a smarter life!</b>
-  </a>
-  <p>
-    This Python project is a simple, user-friendly task management tool that helps you keep track of your to-dos. It features auto-loading of tasks, easy editing, and a focus on making your life more organized. I built it to solve my own problem of forgetting daily tasks, and it's been super helpful!
-  </p>
-  <img src="https://raw.githubusercontent.com/kri297/TaskManager/main/demo.gif" alt="Task Manager Demo" width="300"/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🌱 FreshTray NGO Website</h3>
+        <a href="https://freshtray-mges.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/heart-with-pulse.png" width="60" alt="FreshTray NGO"/><br>
+          <b>Making a difference through technology!</b>
+        </a>
+        <p>
+          A fully responsive NGO website built with modern web technologies. Features an intelligent chatbot, add to cart functionality, and location tracking system. Deployed on Vercel with a focus on accessibility and user experience.
+        </p>
+        <a href="https://freshtray-mges.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-06B6D4?style=for-the-badge&logoColor=white&labelColor=0F0F23" />
+        </a>
+        <a href="https://github.com/kri297/NGO_WEBSITE" target="_blank">
+          <img src="https://img.shields.io/badge/📁_Repository-View_Code-A855F7?style=for-the-badge&logoColor=white&labelColor=0F0F23" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>📋 Task Manager (Python)</h3>
+        <a href="https://github.com/kri297/TaskManager/blob/main/590015053_KRISH_CODE.py" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/task.png" width="60" alt="Task Manager"/><br>
+          <b>Organize tasks, auto-load, and edit — for a smarter life!</b>
+        </a>
+        <p>
+          A simple, user-friendly task management tool that helps you keep track of your to-dos. Features auto-loading of tasks, easy editing, and a focus on making your life more organized. Built to solve daily task management challenges.
+        </p>
+        <a href="https://github.com/kri297/TaskManager" target="_blank">
+          <img src="https://img.shields.io/badge/📁_Repository-View_Code-A855F7?style=for-the-badge&logoColor=white&labelColor=0F0F23" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
