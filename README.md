@@ -46,7 +46,6 @@
     <li>🤝 <b>Collaboration:</b> I love working on team projects and hackathons!</li>
   </ul>
 </div>
----
 
 ## 🏆 GitHub Trophies
 
