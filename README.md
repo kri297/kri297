@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+creative+world!;Python+%7C+C+%7C+HTML+%7C+CSS+%7C+Git+;Building+projects+that+stand+out+%F0%9F%98%8E;Let%27s+innovate+together!&gradient=true&gradientColorStart=A855F7&gradientColorEnd=06B6D4" alt="Welcome to my creative world! Python | C | HTML | CSS | Git | Building projects that stand out 😎 | Let's innovate together!" />
 </p>
-
 <p align="center">
   <a href="https://portfolioofkrish.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Portfolio-Explore_My_Work-A855F7?style=for-the-badge&logoColor=white&labelColor=0F0F23&gradient=true" />
